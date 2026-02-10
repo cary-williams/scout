@@ -12,6 +12,8 @@ scanning, authenticated testing, or exploit attempts, and it does not claim to
 validate compliance. It surfaces signals to support decision-making, not replace
 due diligence.
 
+Working Demo: https://scout-plum-ten.vercel.app
+
 ---
 
 ## What SCOUT is designed to do
